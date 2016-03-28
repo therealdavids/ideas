@@ -8,5 +8,6 @@ Scope: Pick 6 Davids!
 0. [**David** Duchovny](https://en.wikipedia.org/wiki/David_Duchovny) &mdash; Actor, *X-Files*
 0. [**David** Lynch](https://en.wikipedia.org/wiki/David_Lynch) &mdash; Director
 0. [**David** Schwimmer](https://en.wikipedia.org/wiki/David_Schwimmer) &mdash; Actor, *Friends*
+0. [**David** Blaine](https://en.wikipedia.org/wiki/David_Blaine) &mdash; Magician
 
 
