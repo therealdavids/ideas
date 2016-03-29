@@ -1,5 +1,8 @@
 Game Board is Jeopordy
 
+MVP: Implement one, but do it well.
+Pick N, but ensure they thematically fit.
+
 ## VIM DDR
     diff: speed, trickiness
 
