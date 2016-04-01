@@ -10,6 +10,6 @@ Scope: Pick 6 Davids!
 0. [**David** Schwimmer](https://en.wikipedia.org/wiki/David_Schwimmer) &mdash; Actor, *Friends*
 0. [**David** Blaine](https://en.wikipedia.org/wiki/David_Blaine) &mdash; Magician
 0. [**David** Hasselhoff](https://en.wikipedia.org/wiki/David_Hasselhoff) &mdash; The HOFF
-0. [**Davy Jones**](https://en.wikipedia.org/wiki/Davy_Jones_(Pirates_of_the_Caribbean)) &mdash; Pirate
+0. [**Davy** Jones](https://en.wikipedia.org/wiki/Davy_Jones_(Pirates_of_the_Caribbean)) &mdash; Pirate
 
 
