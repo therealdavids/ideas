@@ -9,5 +9,6 @@ Scope: Pick 6 Davids!
 0. [**David** Lynch](https://en.wikipedia.org/wiki/David_Lynch) &mdash; Director
 0. [**David** Schwimmer](https://en.wikipedia.org/wiki/David_Schwimmer) &mdash; Actor, *Friends*
 0. [**David** Blaine](https://en.wikipedia.org/wiki/David_Blaine) &mdash; Magician
+0. [**David** Hasselhoff](https://en.wikipedia.org/wiki/David_Hasselhoff) &mdash; The HOFF
 
 
