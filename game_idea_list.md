@@ -3,6 +3,10 @@ Game Board is Jeopordy
 MVP: Implement one, but do it well.
 Pick N, but ensure they thematically fit.
 
+## Fighting Game
+    3/5 One-hit Kill fighting game
+    diff: single
+
 ## VIM DDR
     diff: speed, trickiness
 
