@@ -8,6 +8,7 @@ If phaser supports N controllers, we doing that.
 # Active Multiplayer
 ## Fighting Game
     Best 3/5 One-hit Kill fighting game
+    Floating head, joust kind of game
     diff: none, totally skill testing, need controllers
     
 ## Pong?
