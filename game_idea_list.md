@@ -20,6 +20,10 @@ If phaser supports N controllers, we doing that.
 ## Pong?
     Best 3/5 One-hit Kill
     diff: none, totally skill testing, need controllers
+    
+## Pinged
+    Servers trying to respond to random pings
+    Reaction game. Low latency wins
 
 # Single Player (Taking Turns)
 ## Davy Jones and The Software Pirates
