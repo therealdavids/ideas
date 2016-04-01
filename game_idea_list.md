@@ -6,6 +6,12 @@ If phaser supports N controllers, we doing that.
 
 
 # Active Multiplayer
+
+## Kill the Zombies
+    Haywire process created too many.
+    Forked waay to hard
+    Coop/competition game to try to kill as many processes as possbile
+
 ## Fighting Game
     Best 3/5 One-hit Kill fighting game
     Floating head, joust kind of game
