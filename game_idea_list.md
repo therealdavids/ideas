@@ -12,7 +12,7 @@ If phaser supports N controllers, we doing that.
     Forked waay to hard
     Coop/competition game to try to kill as many processes as possbile
 
-## Fighting Game
+## Fighting Game (Joust)
     Best 3/5 One-hit Kill fighting game
     Floating head, joust kind of game
     diff: none, totally skill testing, need controllers
