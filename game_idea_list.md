@@ -16,6 +16,12 @@ If phaser supports N controllers, we doing that.
     diff: none, totally skill testing, need controllers
 
 # Taking turns
+## Davy Jones and The Software Pirates
+    NxN board Battleship, where N is small; small is < 4
+    Try to guess where the other ship is!
+    diff: speed, trickiness
+
+
 ## VIM DDR
     diff: speed, trickiness
 
