@@ -19,6 +19,8 @@ If phaser supports N controllers, we doing that.
 ## Davy Jones and The Software Pirates
     NxN board Battleship, where N is small; small is < 4
     Try to guess where the other ship is!
+    Try to blow up their ships as fast as you can!
+    Your missles have a cooldown time.
     diff: speed, trickiness
 
 
