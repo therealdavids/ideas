@@ -33,7 +33,7 @@ If phaser supports N controllers, we doing that.
 ## VIM DDR
     diff: speed, trickiness
 
-## Typing game
+## Typing game (Hacking Simulator)
     diff: time, speed
 
 ## Kill the Process
