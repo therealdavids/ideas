@@ -4,7 +4,7 @@ MVP: Implement one, but do it well.
 Pick N, but ensure they thematically fit.
 
 ## Fighting Game
-    3/5 One-hit Kill fighting game
+    Best 3/5 One-hit Kill fighting game
     diff: single
 
 ## VIM DDR
